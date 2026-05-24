@@ -30,4 +30,4 @@ and trust no cloud.
 
 ---
 
-curated by [@l1roii](https://github.com/l1roii) · *mottainai*, but for code
+curated by [@l1roii](https://github.com/l1roii) & [@puhize](https://github.com/puhize) · *mottainai*, but for code
