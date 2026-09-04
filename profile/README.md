@@ -30,6 +30,10 @@ the studio itself. Every repo orbits it, and it answers, live: where do we
 stand, what's on me, who's working on what right now. *Active, live at
 [orbit.garakuyard.com](https://orbit.garakuyard.com).*
 
+🎙️ **[nyx](https://github.com/garaku-yard/nyx)** — a query-only voice
+interface for orbit. Ask it something out loud, get the answer spoken back,
+pulled live from the board. *Active.*
+
 🔗 **[tether](https://github.com/garaku-yard/tether)** — your terminal, on
 your phone. Streams a coding session out of `tmux` to any browser on the
 same wifi — a real terminal, not a screenshot. LAN only, no accounts, one
